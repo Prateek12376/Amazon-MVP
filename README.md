@@ -133,23 +133,4 @@ npm start
 * Wishlist feature
 * Deployment (Vercel + Render)
 
----
 
-## 📸 Demo
-
-(Add screenshots or deployed link here)
-
----
-
-## 📎 Submission
-
-* GitHub Repository: (your link)
-* Live Demo: (your deployed link)
-
----
-
-## 🙌 Acknowledgment
-
-This project was built as part of an SDE Intern Full Stack Assignment to demonstrate full-stack development skills, clean architecture, and database design.
-
----
